@@ -1,2 +1,0 @@
-# transaction-mq
-springboot+rabbitmq
